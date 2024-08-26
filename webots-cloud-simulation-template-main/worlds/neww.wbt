@@ -10,7 +10,7 @@ WorldInfo {
   info [
     "The model of the E-puck robot"
   ]
-  title "E-puck simulation"
+  title "Something new"
 }
 Viewpoint {
   orientation -0.16091570958437604 0.08710109655477316 0.9831172531228981 2.0789738795604262
